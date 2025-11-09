@@ -1,6 +1,5 @@
 # web-clone-project
 
-===================================
 How to run this file
 ===================================
 1. Download the 'CCC Web Clone Project.zip' file.
@@ -14,7 +13,6 @@ How to run this file
 Note: You can still switch languages at any time using the selector in the top-right corner of the webpage.
 
 
-===================================
 如何运行此文件
 ===================================
 1. 下载‘CCCC Web Clone Project.zip’压缩文件。
