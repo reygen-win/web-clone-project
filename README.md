@@ -2,7 +2,7 @@
 
 How to run this file
 ===================================
-1. Download the 'CCC Web Clone Project.zip' file.
+1. Download the 'CCCC Web Clone Project.zip' file.
 2. Unzip this zip file into your destination folder
 3. Open the new folder you just extracted.
 4. Choose language:
